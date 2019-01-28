@@ -10,4 +10,4 @@ Friend Finder application is meant to simulate a simple dating app. The applicat
 If you would like to watch a demo of the app view here:
 
 ### Try it out
-Friend Finder is deployed to Heroku. Please check it out here:
+Friend Finder is deployed to Heroku. Please check it out here: https://still-wildwood-64215.herokuapp.com/
