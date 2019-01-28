@@ -39,6 +39,9 @@ module.exports = function (app) {
                 }
             }
         }
+        // Saves the user's data to the database after the check happens otherwise
+        // it will always return the user as the user's best friend.
         friends.push(userData);
-    })
+        res.json(bestMatch);
+    });
 }
