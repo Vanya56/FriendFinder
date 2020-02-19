@@ -1,13 +1,53 @@
-# Friend Finder Application
+<!-- Headdings -->
+# Headding 1
+## Headding 2
+### Headding 3
+#### Headding 4
+##### Headding 5
+###### Headding 6
 
-### Description
+<!-- Italics -->
+*This text is italic* 
 
-Friend Finder implements friend matching based on the user's responses to a ten question survey. The user responds to questions with values from 1 (Strongly Disagree) to 5 (Strongly Agree). When the survey is submitted, an existing user record closest to the current user's responses is found and returned. The closest set of user responses is defined as the set with the lowest absolute difference for all ten questions combined.
+<!-- Strong -->
+**This Text is strong!** 
 
-Friend Finder application is meant to simulate a simple dating app. The application is implemented using a Node.js and Express server on the back end and Bootstrap framework on the front end.
+<!-- Strikethrough -->
+~~This text~~ is strikethrough.
 
-### Demo
-If you would like to watch a demo of the app view here:
+<!-- Dividers 3x underscore-->
+___
+___
 
-### Try it out
-Friend Finder is deployed to Heroku. Please check it out here: https://still-wildwood-64215.herokuapp.com/
+<!-- Blockquote -->
+>This is in blockequote!
+
+<!-- Links -->
+[Text you want to use goes in here](http://www.linkgoesinhere.com)
+
+<!-- UL -->
+* item 1
+* item 2
+* item 3
+    * nested item 1
+
+<!-- OL -->
+1. first
+1. second
+1. third
+
+<!-- Inline code block -->
+`<p>This is a paragraph tag</p>`
+
+<!-- Images -->
+![pic](pictures/img1.png)
+
+<!-- GitHub Markdown -->
+<!-- Code blocks -->
+```bash or javascript or another language
+npm start
+```
+<!-- Task list -->
+* [x]Task 1
+* [x]Task 2
+* [ ]Task 3
