@@ -44,6 +44,6 @@ Friends are stored as such:
     name: "Egon",
 	photo:"https://cdn.pinkvilla.com/files/styles/contentpreview/public/ghostbusters_3.jpg?itok=UpPf24_k",
 	scores: [2, 5, 4, 1, 2, 3, 3, 2, 3, 3]
-	}
+}
 ```
 
