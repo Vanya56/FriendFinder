@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 # Match Maker
 
 
+=======
+Friend Finder Application
+Description
+Friend Finder implements friend matching based on the user's responses to a ten question survey. The user responds to questions with values from 1 (Strongly Disagree) to 5 (Strongly Agree). When the survey is submitted, an existing user record closest to the current user's responses is found and returned. The closest set of user responses is defined as the set with the lowest absolute difference for all ten questions combined.
+>>>>>>> 901508e5887056159d8e1e816a7be92dfdb40eac
 
 Find your match [Here!]()
 
+<<<<<<< HEAD
 ## Usage
 ___
 
@@ -42,3 +49,10 @@ Friends are stored as such:
 	scores: [2, 5, 4, 1, 2, 3, 3, 2, 3, 3]
 	}
 ```
+=======
+Demo
+If you would like to watch a demo of the app view here:
+
+Try it out
+Friend Finder is deployed to Heroku. Please check it out here: https://still-wildwood-64215.herokuapp.com/
+>>>>>>> 901508e5887056159d8e1e816a7be92dfdb40eac
